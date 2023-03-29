@@ -24,6 +24,7 @@ Anaconda - Python 3.7
 ```python
 # Developed By: Shyam Kumar A
 # Register Number: 212221230098
+```
 # i) Convert BGR and RGB to HSV and GRAY
 ~~~
 import cv2
@@ -103,9 +104,6 @@ cv2.waitKey(0)
 cv2.destoryAllWindows()
 ~~~
 
-
-
-```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 ![o](d1.png)
